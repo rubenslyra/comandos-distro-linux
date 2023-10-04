@@ -1,4 +1,4 @@
-- [voltar](./README.md)
+- [voltar 🏠](./README.md)
 ```bash
 Comandos Linux Básicos:
 01. ls (List) - Listar arquivos e diretórios em um diretório.
@@ -76,4 +76,4 @@ Outros Comandos Úteis:
 
 Continue aprendendo sobre Linux e seus comandos para se tornar mais proficiente no sistema operacional.
 ```
-- [voltar](./README.md)
+- [voltar 🏠](./README.md)
