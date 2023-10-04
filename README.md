@@ -3,7 +3,7 @@
 O sistema operacional Linux é amplamente utilizado em servidores, sistemas embarcados e até mesmo em computadores pessoais devido à sua estabilidade, segurança e versatilidade. Dominar os comandos Linux básicos é fundamental para qualquer administrador de sistema ou entusiasta que deseja explorar esse sistema operacional de código aberto. Neste artigo, exploraremos 56 comandos essenciais que podem ajudar você a se familiarizar com o Linux e aumentar sua eficiência ao trabalhar com ele.
 
 ## Comandos Linux Básicos 
-- [Verifique a lista completa](#)
+- [Verifique a lista completa](./lista_comandos_completa.md)
 
 1. **ls (List)** - O comando `ls` é usado para listar os arquivos e diretórios presentes em um diretório específico.
 
